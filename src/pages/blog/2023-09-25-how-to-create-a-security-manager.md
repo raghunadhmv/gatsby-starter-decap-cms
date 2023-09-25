@@ -6,4 +6,6 @@ description: This is a specific field which is not necessary for my CMS applicat
 featuredpost: true
 featuredimage: /img/coffee-gear.png
 ---
+## A﻿bout Secure Objects
+
 T﻿his is a secure object and visual enhancer for the current topic. Available options to fortify topics knowledge flow and imparting visual information enhancement.
